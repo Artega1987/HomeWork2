@@ -1,11 +1,11 @@
 package com.gmail.artemhaevsky;
 
 public class Triangle {
-    int x;
-    int y;
-    int z;
+    double x;
+    double y;
+    double z;
 
-    public Triangle( int x, int y, int z){
+    public Triangle( double x, double y, double z){
         this.x = x;
         this.y = y;
         this.z = z;
